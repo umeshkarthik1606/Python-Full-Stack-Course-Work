@@ -46,15 +46,21 @@ Allowed users to add, update, and delete notes using loops and conditional state
 Worked with lists and conditions to separate photos and videos based on file extensions.
 Also created a simple email login check using dictionaries to verify stored email IDs and passwords.
 
+### **Day 13 — File Handling (CSV, JSON, and Text Files)**
+Learned how to read and write data using different file formats such as CSV, JSON, and text files.
+Used Python modules like csv and json along with file operations (read, write, append) to manage data stored in files.
 
+### **Day 14 — Advanced File Handling with CSV, JSON, and Text Files**
+Learned how to read, write, and update data in text, CSV, and JSON files using Python.
+Practiced appending content to text files, reading CSV records, and modifying JSON data using the csv and json modules.
 
+### **Day 15 — Exception Handling and ATM Error Simulation**
+Learned how to handle runtime errors in Python using try, except, else, and finally blocks.
+Implemented an ATM simulation program to demonstrate different exceptions like ZeroDivisionError, ValueError, TypeError, IndexError, and KeyError.
 
-
-
-
-
-
-
+ **Day 16 — Snake and Ladder Game Using Python**
+Built a simple Snake and Ladder game using Python functions, loops, dictionaries, and the random module to simulate dice rolls.
+The program manages player turns, updates scores, and checks for snakes and ladders to change board positions.
 
 
 

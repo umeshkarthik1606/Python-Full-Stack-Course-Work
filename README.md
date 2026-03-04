@@ -1,23 +1,64 @@
 ## **Day 1 — Python Basics**
-This day focuses on the basic concepts of Python programming, including print statements, variables, and simple program structure. The exercises demonstrate how to display output using the print() function and understand how a Python script runs.
+Introduced basic Python syntax and the print() function.
+Learned how Python programs run and how output is displayed..
 
 ## **Day 2 — User Input and Simple Bill Calculator**
-This day focuses on taking user input and performing basic calculations in Python. The program asks the user to enter details such as name, mobile number, product names, and their prices. It then displays the products with their prices and calculates the total bill by adding the product prices. This exercise demonstrates how to use the input() function, convert values to numeric types like int and float, and print formatted output.
+Used the input() function to collect user details and product prices.
+Performed basic arithmetic operations to calculate the total bill.
 
 ## **Day 3 — Conditional Statements**
-This day focuses on using if, elif, and else statements to control program flow based on conditions. The programs demonstrate checking values like scores to assign grades, verifying user roles and login status, and making decisions inside loops. It also shows how conditional statements can work with lists and dictionaries to process data such as determining whether students pass or fail based on their marks
+Learned decision making using if, elif, and else.
+Applied conditions to assign grades, check roles, and evaluate student results.
 
 ## **Day 4 — Loops and Control Statements**
-This day focuses on using loops and control statements in Python. The programs demonstrate iterating through lists, tuples, sets, dictionaries, and strings using for loops. It also shows how to generate number ranges, create multiplication tables, and process data collections. Control statements such as break and continue are used to change loop behavior, and while loops are introduced to repeat actions until a condition changes. These examples help understand how loops are used to automate repetitive tasks and control program flow.
+Used for and while loops to repeat tasks.
+Explored control statements like break and continue while iterating through lists, sets, and dictionaries.
 
 ## **Day 5 — String Manipulation, Password Validation, and Bill Generation**
-This day focuses on working with strings, conditions, loops, and dictionaries to build small practical programs. One program generates a username by combining parts of a user's name and date of birth using string slicing. Another program checks whether a password is strong by validating the presence of uppercase letters, lowercase letters, digits, and special characters. A billing program is also implemented using a dictionary to store product details, where users select products and the program calculates the total bill based on quantity and price. These exercises demonstrate how Python can be used to build simple real-world utilities using string operations, loops, and conditional logic.
+Worked with string slicing and validation.
+Built small programs for username generation, password strength checking, and bill generation using dictionaries.
 
 ## **Day 6 — Functions and Basic ATM System**
-This day focuses on functions in Python and how they are used to organize code into reusable blocks. The programs demonstrate defining functions, passing parameters, using default arguments, and handling multiple inputs with *args. A simple ATM-style program is also introduced where account details are stored in a dictionary, and functions are used to perform operations such as checking balance, depositing money, and withdrawing money. This exercise shows how functions, conditions, and dictionaries can work together to build small real-world applications.
+Introduced Python functions and parameter passing.
+Implemented a basic ATM-style program with operations like balance check, deposit, and withdrawal.
 
 ## **Day 7 — Functions, Calculator Program, and Lists**
-This day focuses on using functions and lists to build small programs. One program implements a simple calculator where functions perform operations like addition, subtraction, multiplication, division, and modulus based on the user’s input expression. Another program works with lists to store student names and their GPA values, then processes the data to display student information and find the highest and lowest GPA. These exercises demonstrate how functions, loops, conditions, and lists can be combined to handle calculations and manage data in Python programs.
+Created a simple calculator using functions for arithmetic operations.
+Used lists to store student names and GPA values and process the data.
 
 ## **Day 8 — Dictionary and Simple MCQ Program**
-This day focuses on using data collections and loops to build a simple multiple-choice question program. The questions, options, and answers are stored in a data structure, and the program iterates through them using a loop to display each question. This exercise demonstrates how Python can be used to store structured data and process it to create small interactive quiz-style applications.
+Stored questions and options in a data structure.
+Used loops to display questions and simulate a basic quiz system.
+
+## **Day 9 — Pattern Programs Using Loops**
+Used nested loops and conditions to generate star and character patterns.
+Learned how loop logic controls printed output.
+
+## **Day 10 — Nested Loops and Pattern Printing**
+Applied nested loops and conditional checks to print square border patterns.
+Helped strengthen understanding of row and column iteration.
+
+## **Day 11 — Notes Management System**
+Built a menu-driven notes application using dictionaries.
+Allowed users to add, update, and delete notes using loops and conditional statements.
+
+## **Day 12 — File Handling with Lists and Email Validation**
+Worked with lists and conditions to separate photos and videos based on file extensions.
+Also created a simple email login check using dictionaries to verify stored email IDs and passwords.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
